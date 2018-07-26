@@ -1,0 +1,58 @@
+html {
+    height: 100%;
+}
+
+body {
+    height: 100%;
+    margin: 0;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background: linear-gradient(to bottom right, #00dae5, #b3fbff) fixed;
+}
+
+#mainpod {
+  background-color: #fff;
+  position: relative;
+  margin: 8% auto auto auto;
+  border-radius: 6px;
+  padding-top: 10px;
+  padding-bottom: 0px;
+  padding-right: 10px;
+  padding-left: 10px;
+}
+
+hr {
+  margin-top: 15px;
+}
+
+a {
+  font-family: Helvetica, Arial, sans-serif;
+  width: 130px;
+  /*font-size: 400px;*/
+}
+
+#button-row {
+  list-style-type: none;
+  text-align: center;
+} 
+
+#button-row li {
+  display: inline-block;
+  margin: 2px 20px 0px 20px;
+}
+
+#footer {
+  margin-top: 10px;
+  color: white;
+}
+
+#http-link {
+  background-color: white;
+  opacity: 0.666;
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  max-height: 46px;
+}
+ 
